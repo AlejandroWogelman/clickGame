@@ -123,7 +123,7 @@ input[type="checkbox"]:checked {
   z-index: 3;
   height: 400px;
   width: 80px;
-  background-image: url(../698684.png);
+  background-image: url(./assets/698684.png);
   background-size: contain;
   border-radius: 5px;
   bottom: 0;
@@ -164,7 +164,7 @@ input[type="checkbox"]:checked {
   position: absolute;
   z-index: 5;
   height: 280px;
-  background-image: url(../brickwall.png);
+  background-image: url(./assets/brickwall.png);
   background-size: contain;
   bottom: 0;
   left: 0;
@@ -205,7 +205,7 @@ input[type="checkbox"]:checked {
   bottom: -10px;
   right: 0;
   width: 150px;
-  background-image: url(../muro-de-berlin.png);
+  background-image: url(./assets/muro-de-berlin.png);
   background-size: cover;
   background-repeat: none;
 }
@@ -217,7 +217,7 @@ input[type="checkbox"]:checked {
   bottom: 15px;
   left: 0;
   right: 0;
-  background-image: url(../arbol-de-manzana.png);
+  background-image: url(./assets/arbol-de-manzana.png);
   background-size: contain;
 }
 .layer-9 {
@@ -227,13 +227,13 @@ input[type="checkbox"]:checked {
   bottom: 0;
   width: 60%;
   height: 145px;
-  background-image: url(../arbusto.png);
+  background-image: url(./assets/arbusto.png);
   background-size: cover;
   background-repeat: none;
 }
 
 .layer-10 {
-  background-image: url(../nubes.png);
+  background-image: url(./assets/nubes.png);
   background-size: cover;
   background-repeat: none;
 
